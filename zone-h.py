@@ -5,6 +5,7 @@ cookie = {
 	"ZHE" : "",
 	"PHPSESSID" : ""
 }
+print('New Zone-H Grabber By ARON-TN')
 notiferz=[]
 print('Grab Some Notiferz (From 1st 10 pages).....')
 for n in range(10):
